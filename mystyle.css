@@ -1,0 +1,66 @@
+/*topnavigation bar*/
+.topnav {
+  background-color: rgb(19, 17, 17);
+  padding: 14px 4px;
+  text-align: center;
+}
+.topnav a{
+  padding: 12px 14px;
+  text-decoration: none;
+  text-align: center;
+}
+.topnav a:hover {
+  background-color:rgb(245, 237, 237)
+}
+
+body {
+  background-color: rgb(51, 51, 51);
+  color: #f2f2f2;
+  padding-bottom: 75px;
+  font-family: Arial, sans-serif;
+}
+
+p{
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+h1{
+  text-align: center;
+}
+
+h1 img{
+  align-self: center;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+h2 {
+  background-color: rgb(19, 17, 17);
+  padding: 14px 4px;
+  text-align: center;
+}
+
+h3 {
+  padding-left: 400px;
+}
+
+h4{
+  padding-left: 400px;
+}
+
+a {
+  color: #f2f2f2;
+}
+
+a:hover {
+  color:gray
+}
+
+button {
+  background-color: rgb(19, 17, 17);
+  color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  padding: 12px 14px;
+}
